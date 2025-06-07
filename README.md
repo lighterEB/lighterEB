@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <div>
   <div>
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lighterEB&show_icons=true&theme=react)]()
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lighterEB&layout=pie&show_icons=true&theme=react)]()
+    <span>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lighterEB&show_icons=true&theme=react)]()
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lighterEB&layout=pie&show_icons=true&theme=react)]()</span>
   </div>
 </div>
 

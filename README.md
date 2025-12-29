@@ -19,9 +19,16 @@ I'm a passionate developer interested in **Python tools**, **software distributi
 </p>
 
 <!-- 📊 GitHub Stats & Languages (Fixed: Escaped ampersands for HTML) -->
-<div align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%">
-</div>
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="metrics-base.svg" alt="General Stats" width="100%">
+    </td>
+    <td width="50%" valign="top">
+      <img src="metrics-langs.svg" alt="Top Languages" width="100%">
+    </td>
+  </tr>
+</table>
 ### 👀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=lighterEB&color=brightgreen" alt="Profile views" />
 

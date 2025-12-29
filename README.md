@@ -19,8 +19,11 @@ I'm a passionate developer interested in **Python tools**, **software distributi
 </p>
 
 ### 📊 GitHub Stats
-<!-- 简化测试版 -->
-<img align="right" width="47%" src="https://github-readme-stats-ux72.onrender.com/api/top-langs?username=lighterEB&layout=compact&theme=light&hide_border=true&count_private=true&langs_count=8" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ux72.onrender.com/api?username=lighterEB&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ux72.onrender.com/api?username=lighterEB&show_icons=true&theme=light&hide_border=true&count_private=true&include_all_commits=true">
+  <img align="left" width="47%" alt="GitHub Stats" src="https://github-readme-stats-ux72.onrender.com/api?username=lighterEB&show_icons=true&theme=light&hide_border=true&count_private=true&include_all_commits=true">
+</picture>
 
 ### 🌐 Top Languages
 <picture>

@@ -18,13 +18,13 @@ I'm a passionate developer interested in **Python tools**, **software distributi
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=lighterEB&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lighterEB&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Top Languages" />
+### 📊 GitHub Stats & Top Languages
+<!-- 用 lowlighter/metrics 替代，更稳定 -->
+<img src="https://metrics.lecoq.io/lighterEB?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" alt="GitHub Metrics" />
 
 ### 🔥 Contribution Streak
-<img src="https://github-readme-stats.vercel.app/api/streak/?user=lighterEB&theme=dark&hide_border=true" alt="Streak Stats" />
+<!-- 用 DenverCoder1/github-readme-streak-stats 替代 -->
+<img src="https://streak-stats.demolab.com?user=lighterEB&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
 
 ### 🐍 Contributions Snake
 ![snake gif](https://raw.githubusercontent.com/lighterEB/lighterEB/output/github-contribution-grid-snake-dark.svg)

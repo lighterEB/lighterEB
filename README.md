@@ -18,7 +18,7 @@ I'm a passionate developer interested in **Python tools**, **software distributi
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### 📊 GitHub Stats (with Streak & Languages)
+### 📊 GitHub Stats
 <!-- 用 metrics 整合 Stats、Languages 和 Streak，支持自适应暗/亮模式 -->
 <img align="left" width="47%" src="https://metrics.lecoq.io/lighterEB?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=1&achievements=1&config.timezone=Asia%2FShanghai&config.twemoji=true" alt="GitHub Metrics" />
 <img align="right" width="47%" src="https://metrics.lecoq.io/lighterEB?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai&config.twemoji=true" alt="Languages" />

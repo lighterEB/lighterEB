@@ -7,8 +7,8 @@
 I'm a passionate developer interested in **Python tools**, **software distribution**, and **Hackintosh modifications**. I love building practical tools that solve real problems!
 
 ### 🚀 Featured Projects
-- 🔽 [SoftwareDownloader](https://github.com/lighterEB/SoftwareDownloader) - Pure software downloader (87 ⭐)
-- 🍎 [ThinkPad-T440p](https://github.com/lighterEB/ThinkPad-T440p) - Hackintosh config for ThinkPad T440p (14 ⭐)
+- 🔽 [SoftwareDownloader](https://github.com/lighterEB/SoftwareDownloader) - Pure software downloader
+- 🍎 [ThinkPad-T440p](https://github.com/lighterEB/ThinkPad-T440p) - Hackintosh config for ThinkPad T440p
 
 ### 🛠 Tech Stack
 <p align="left">
@@ -18,29 +18,30 @@ I'm a passionate developer interested in **Python tools**, **software distributi
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### 📊 GitHub Stats (with Streak)
-<!-- 左侧：整体 Stats 和 Streak，支持自适应（用 metrics，如果正常；否则用 github-readme-stats） -->
-<img align="left" width="47%" src="https://metrics.lecoq.io/lighterEB?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=1&achievements=1&config.timezone=Asia%2FShanghai&config.twemoji=true" alt="GitHub Metrics" />
-
-### 🌐 Top Languages
-<!-- 右侧：Top Languages，用 github-readme-stats 替代，支持自适应暗/亮模式 -->
+### 📊 GitHub Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lighterEB&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lighterEB&layout=compact&theme=light&hide_border=true&count_private=true&langs_count=8">
-  <img align="right" width="47%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lighterEB&layout=compact&theme=light&hide_border=true&count_private=true&langs_count=8">  <!-- 默认 light -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ux72.onrender.com/api?username=lighterEB&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ux72.onrender.com/api?username=lighterEB&show_icons=true&theme=light&hide_border=true&count_private=true&include_all_commits=true">
+  <img align="left" width="47%" alt="GitHub Stats" src="https://github-readme-stats-ux72.onrender.com/api?username=lighterEB&show_icons=true&theme=light&hide_border=true&count_private=true&include_all_commits=true">
 </picture>
 
-<div style="clear: both;"></div>  <!-- 清浮动，确保布局整齐 -->
+### 🌐 Top Languages
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ux72.onrender.com/api/top-langs?username=lighterEB&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ux72.onrender.com/api/top-langs?username=lighterEB&layout=compact&theme=light&hide_border=true&count_private=true&langs_count=8">
+  <img align="right" width="47%" alt="Top Languages" src="https://github-readme-stats-ux72.onrender.com/api/top-langs?username=lighterEB&layout=compact&theme=light&hide_border=true&count_private=true&langs_count=8">
+</picture>
+
+<div style="clear: both; height: 20px;"></div>
 
 ### 👀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=lighterEB&color=brightgreen" alt="Profile views" />
 
 ### 🐍 Contributions Snake
-<!-- 自适应蛇图：暗模式用 dark，亮模式用 light -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lighterEB/lighterEB/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lighterEB/lighterEB/output/github-contribution-grid-snake.svg">
-  <img alt="snake gif" src="https://raw.githubusercontent.com/lighterEB/lighterEB/output/github-contribution-grid-snake.svg">  <!-- 默认 light -->
+  <img alt="snake gif" src="https://raw.githubusercontent.com/lighterEB/lighterEB/output/github-contribution-grid-snake.svg">
 </picture>
 
 ### 📫 Connect with Me

@@ -37,7 +37,7 @@ I'm a passionate developer interested in **Python tools**, **software distributi
     </td>
   </tr>
 </table>
-
+<img src="https://github-readme-stats-ux72.onrender.com/api/top-langs?username=lighterEB&amp;layout=compact&amp;theme=light&amp;hide_border=true&amp;count_private=true&amp;langs_count=8" alt="Top Languages">
 ### 👀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=lighterEB&color=brightgreen" alt="Profile views" />
 

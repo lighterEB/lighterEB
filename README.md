@@ -19,12 +19,11 @@ I'm a passionate developer interested in **Python tools**, **software distributi
 </p>
 
 ### 📊 GitHub Stats & Top Languages
-<!-- 用 lowlighter/metrics 替代，更稳定 -->
 <img src="https://metrics.lecoq.io/lighterEB?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" alt="GitHub Metrics" />
 
-### 🔥 Contribution Streak
-<!-- 用 DenverCoder1/github-readme-streak-stats 替代 -->
-<img src="https://streak-stats.demolab.com?user=lighterEB&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+### 🔥 Contribution Streak (用 Activity Graph 替代)
+<!-- 用 Ashutosh00710/github-readme-activity-graph 替代，显示热力图形式的 streak -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lighterEB&theme=github-compact&hide_border=true" alt="Activity Graph" />
 
 ### 🐍 Contributions Snake
 ![snake gif](https://raw.githubusercontent.com/lighterEB/lighterEB/output/github-contribution-grid-snake-dark.svg)

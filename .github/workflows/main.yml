@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天凌晨运行
-  workflow_dispatch:  # 允许手动触发
+    - cron: "0 0 * * *"  # 每天运行
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -17,6 +17,7 @@ jobs:
           github_user_name: lighterEB
           outputs: |
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
+            output/github-contribution-grid-snake.svg?palette=github-light  # 添加 light 版本
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

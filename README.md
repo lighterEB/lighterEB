@@ -19,24 +19,9 @@ I'm a passionate developer interested in **Python tools**, **software distributi
 </p>
 
 <!-- 📊 GitHub Stats & Languages (Fixed: Escaped ampersands for HTML) -->
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ux72.onrender.com/api?username=lighterEB&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ux72.onrender.com/api?username=lighterEB&show_icons=true&theme=light&hide_border=true&count_private=true&include_all_commits=true">
-        <img src="https://github-readme-stats-ux72.onrender.com/api?username=lighterEB&show_icons=true&theme=light&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
-      </picture>
-    </td>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ux72.onrender.com/api/top-langs?username=lighterEB&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=8">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ux72.onrender.com/api/top-langs?username=lighterEB&layout=compact&theme=light&hide_border=true&count_private=true&langs_count=8">
-        <img src="https://github-readme-stats-ux72.onrender.com/api/top-langs?username=lighterEB&layout=compact&theme=light&hide_border=true&count_private=true&langs_count=8" alt="Top Languages">
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
+</div>
 ### 👀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=lighterEB&color=brightgreen" alt="Profile views" />
 

@@ -1,20 +1,36 @@
-# Hi, I'm lighterEB.
+<div align="center">
 
-> Every adiós is a semicolon, not an end.
+# HUSPC
 
-My background is in Java and backend development, particularly the Spring ecosystem. I've also worked on desktop applications, small utilities, and device configuration.
+*Every adiós is a semicolon, not an end.*
 
-## Background
+Java & Spring roots · now building AI-agent infrastructure in Rust and Zig
+Changsha, China · [lightereb.fun](https://lightereb.fun)
 
-- Java backend development with Spring Boot and Spring Cloud.
-- Desktop applications and utilities built with Python and C++.
-- Hands-on projects across software tooling and system configuration.
+</div>
 
-## Past work
+## About
 
-A couple of projects I've shared over the years:
+Backend engineer with a Java & Spring background, now working on AI-agent infrastructure in Rust and Zig. Most at home in small, sharp tools — CLIs, desktop utilities, and the system configuration underneath them.
 
-- **[SoftwareDownloader](https://github.com/lighterEB/SoftwareDownloader)** — A Python tool for downloading software.
-- **[ThinkPad-T440p](https://github.com/lighterEB/ThinkPad-T440p)** — Hackintosh configuration for the ThinkPad T440p.
+## Focus
 
-Both projects are archived and are no longer actively maintained.
+- **Agent systems** — runtimes, management consoles, orchestration
+- **System tooling** — Rust and Zig command-line utilities
+- **Desktop apps** — Python and C++ utilities with a narrow, useful scope
+
+## Toolbox
+
+![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-181717?style=flat-square&logo=spring&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-181717?style=flat-square&logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/-Zig-181717?style=flat-square&logo=zig&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-181717?style=flat-square&logo=vuedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-181717?style=flat-square&logo=cplusplus&logoColor=white)
+
+---
+
+<div align="center">
+<sub>Open to interesting problems — say hi through <a href="https://lightereb.fun">lightereb.fun</a>.</sub>
+</div>
